@@ -1,24 +1,24 @@
-| NO. 	| NAMA                                              	| TEKNOLOGI                       	| LINK                                 	|
-|-----	|---------------------------------------------------	|---------------------------------	|--------------------------------------	|
-|  1  	| SantriKoding - Blog Pribadi                       	| Laravel, Bootstrap              	| https://santrikoding.com             	|
-|  2  	| RubyPedia - Blog Pribadi                          	| CodeIgniter, Bootstrap          	| https://www.rubypedia.com            	|
-|  3  	| Portal Website Universitas KH. A. Wahab Hasbullah 	| CodeIgniter                     	| https://www.unwaha.ac.id             	|
-|  4  	| PMB Universitas KH. A. Wahab Hasbullah            	| CodeIgniter, Bootstrap          	| http://pmb.unwaha.ac.id              	|
-|  5  	| Portal Stiesbabussalam                            	| Laravel, Bootstrap              	| https://stiesbabussalam.ac.id        	|
-|  6  	| PMB Stiesbabussalam                               	| Laravel, Bootstrap              	| https://pmb.stiesbabussalam.ac.id    	|
-|  7  	| Siakad Stiesbabussalam                            	| Laravel, Bootstrap, jQuery      	| https://siakad.stiesbabussalam.ac.id 	|
-|  8  	| Portal Website PP Babussalam Jombang              	| Laravel, Bootstrap              	| https://babussalam.online            	|
-|  9  	| Portal Website PP Tambakberas Jombang             	| CodeIgniter, Bootstrap          	| https://tambakberas.com              	|
-|  10 	| Portal Website SMKTI Annajiyah                    	| CodeIgniter, Bootstrap          	| https://smktiannajiyah.sch.id        	|
-|  11 	| PPDB SMKTI Annajiyah                              	| Laravel, Bootstrap              	| https://ppdb.smktiannajiyah.sch.id   	|
-|  12 	| Portal Website MMA Jombang                        	| CodeIgniter, Bootstrap          	| https://mualliminenamtahun.net       	|
-|  13 	| Portal Website NU Jombang                         	| CodeIgniter, Bootstrap          	| https://jombang.nu.or.id             	|
-|  14 	| Portal Website Travel Jombang (DInas Pemuda)      	| Laravel, Bootstrap, jQuery      	| https://jombangtravel.id             	|
-|  15 	| Toko Online T-shirt Programmer - Pribadi          	| Laravel, Bootstrap, RuangAPI    	| https://allodie.com                  	|
-|  16 	| Sistem pengajuan Judul Skripsi                    	| PHP, MySQLi, Bootstrap          	| https://skripsi.unwaha.ac.id         	|
-|  17 	| Portal Desa Podoroto                              	| CodeIgniter, Bootstrap          	| https://www.podoroto.desa.id         	|
-|  18 	| Portal Desa Kedungbetik                           	| CodeIgniter, Bootstrap          	| https://www.kedungbetik.desa.id      	|
-|  19 	| portal Desa Kepuhdoko                             	| CodeIgniter, Bootstrap          	| http://kepuhdoko.id                  	|
-|  20 	| Aplikasi Surat Online Desa Kepuhdoko              	| CodeIgniter, Bootstrap          	| https://surat.kepuhdoko.id           	|
-|  21 	| Portal Desa Baengas Bangkalan                     	| Laravel, Bootstrap              	| https://baengasbangkalan.com         	|
-|  22 	| Aplikasi Surat Online Desa Baengas bangkalan      	| Laravel, Bootstrap, Pusher, FCM 	| https://surat.baengasbangkalan.com   	|
+| NO. 	| NAMA                                              	| TEKNOLOGI                                    	| LINK                                 	|
+|-----	|---------------------------------------------------	|----------------------------------------------	|--------------------------------------	|
+|  1  	| SantriKoding - Blog Pribadi                       	| Laravel, Bootstrap                           	| https://santrikoding.com             	|
+|  2  	| RubyPedia - Blog Pribadi                          	| CodeIgniter, Bootstrap                       	| https://www.rubypedia.com            	|
+|  3  	| Portal Website Universitas KH. A. Wahab Hasbullah 	| CodeIgniter                                  	| https://www.unwaha.ac.id             	|
+|  4  	| PMB Universitas KH. A. Wahab Hasbullah            	| CodeIgniter, Bootstrap                       	| http://pmb.unwaha.ac.id              	|
+|  5  	| Portal Stiesbabussalam                            	| Laravel, Bootstrap                           	| https://stiesbabussalam.ac.id        	|
+|  6  	| PMB Stiesbabussalam                               	| Laravel, Bootstrap                           	| https://pmb.stiesbabussalam.ac.id    	|
+|  7  	| Siakad Stiesbabussalam                            	| Laravel, Bootstrap, Restful API              	| https://siakad.stiesbabussalam.ac.id 	|
+|  8  	| Portal Website PP Babussalam Jombang              	| Laravel, Bootstrap, Restful API              	| https://babussalam.online            	|
+|  9  	| Portal Website PP Tambakberas Jombang             	| CodeIgniter, Bootstrap                       	| https://tambakberas.com              	|
+|  10 	| Portal Website SMKTI Annajiyah                    	| CodeIgniter, Bootstrap                       	| https://smktiannajiyah.sch.id        	|
+|  11 	| PPDB SMKTI Annajiyah                              	| Laravel, Bootstrap                           	| https://ppdb.smktiannajiyah.sch.id   	|
+|  12 	| Portal Website MMA Jombang                        	| CodeIgniter, Bootstrap                       	| https://mualliminenamtahun.net       	|
+|  13 	| Portal Website NU Jombang                         	| CodeIgniter, Bootstrap                       	| https://jombang.nu.or.id             	|
+|  14 	| Portal Website Travel Jombang (DInas Pemuda)      	| Laravel, Bootstrap, jQuery                   	| https://jombangtravel.id             	|
+|  15 	| Toko Online T-shirt Programmer - Pribadi          	| Laravel, Bootstrap, RuangAPI                 	| https://allodie.com                  	|
+|  16 	| Sistem pengajuan Judul Skripsi                    	| PHP, MySQLi, Bootstrap                       	| https://skripsi.unwaha.ac.id         	|
+|  17 	| Portal Desa Podoroto                              	| CodeIgniter, Bootstrap                       	| https://www.podoroto.desa.id         	|
+|  18 	| Portal Desa Kedungbetik                           	| CodeIgniter, Bootstrap                       	| https://www.kedungbetik.desa.id      	|
+|  19 	| portal Desa Kepuhdoko                             	| CodeIgniter, Bootstrap                       	| http://kepuhdoko.id                  	|
+|  20 	| Aplikasi Surat Online Desa Kepuhdoko              	| CodeIgniter, Bootstrap                       	| https://surat.kepuhdoko.id           	|
+|  21 	| Portal Desa Baengas Bangkalan                     	| Laravel, Bootstrap, Restful API              	| https://baengasbangkalan.com         	|
+|  22 	| Aplikasi Surat Online Desa Baengas bangkalan      	| Laravel, Bootstrap, Pusher, FCM, Restful API 	| https://surat.baengasbangkalan.com   	|
