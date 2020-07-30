@@ -1,6 +1,6 @@
 | NO. 	| NAMA                                              	| TEKNOLOGI                                     	| LINK                                 	|
 |-----	|---------------------------------------------------	|-----------------------------------------------	|--------------------------------------	|
-|  1  	| SantriKoding - Blog Pribadi                       	| Laravel, Bootstrap, AWS SES                   	| https://santrikoding.com             	|
+|  1  	| SantriKoding - Blog Pribadi                       	| Laravel, Bootstrap, AWS SES, Alibaba Cloud                   	| https://santrikoding.com             	|
 |  2  	| RubyPedia - Blog Pribadi                          	| CodeIgniter, Bootstrap                        	| https://www.rubypedia.com            	|
 |  3  	| Portal Website Universitas KH. A. Wahab Hasbullah 	| CodeIgniter                                   	| https://www.unwaha.ac.id             	|
 |  4  	| PMB Universitas KH. A. Wahab Hasbullah            	| CodeIgniter, Bootstrap                        	| http://pmb.unwaha.ac.id              	|
