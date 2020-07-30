@@ -14,7 +14,7 @@
 |  12 	| Portal Website MMA Jombang                        	| CodeIgniter, Bootstrap                        	| https://mualliminenamtahun.net       	|
 |  13 	| Portal Website NU Jombang                         	| CodeIgniter, Bootstrap                        	| https://jombang.nu.or.id             	|
 |  14 	| Portal Website Travel Jombang (DInas Pemuda)      	| Laravel, Bootstrap, jQuery, Spaces Cloud      	| https://jombangtravel.id             	|
-|  15 	| Toko Online T-shirt Programmer - Pribadi          	| Laravel, Bootstrap, RuangAPI, AWS SES         	| https://allodie.com                  	|
+|  15 	| Toko Online T-shirt Programmer - Pribadi          	| Laravel, Bootstrap, RuangAPI, AWS SES, ALibaba Cloud         	| https://allodie.com                  	|
 |  16 	| Sistem pengajuan Judul Skripsi                    	| PHP, MySQLi, Bootstrap                        	| https://skripsi.unwaha.ac.id         	|
 |  17 	| Portal Desa Podoroto                              	| CodeIgniter, Bootstrap                        	| https://www.podoroto.desa.id         	|
 |  18 	| Portal Desa Kedungbetik                           	| CodeIgniter, Bootstrap                        	| https://www.kedungbetik.desa.id      	|
